@@ -1,4 +1,5 @@
 # Learning Resources
 
-## Online Courses
-A list of free online courses on various topics.
+* [List of free online courses](Courses.md)
+* [List of talks]()
+* [List of other collections of learning resources]()
