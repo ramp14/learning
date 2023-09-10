@@ -28,6 +28,7 @@
 ### Program Analysis, Programming Languages, Compilers etc.
 * [MIT 6.883 - Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-883-program-analysis-fall-2005/index.htm)
 * [Brown CS173 - Programming languages (video lectures)](http://cs.brown.edu/courses/cs173/2012/Videos/)
+* [IISc - Principles of Compiler Design](https://nptel.ac.in/courses/106108113)
 
 ### Computer Architecture, Operating Systems
 * [IIT Bombay - Operating Systems (with video lectures)](https://www.cse.iitb.ac.in/~mythili/os/)
@@ -56,6 +57,7 @@
 * [MIT 6.0002 - Introduction to Computational Thinking and Data Science (with video lectures)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * [MIT 6.875 - Cryptography and Cryptanalysis](https://stellar.mit.edu/S/course/6/sp18/6.875/) [(videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 * [MIT 15.S12 - Blockchain and Money (with video lectures)](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
+* [IISc - Computer Systems Security](https://www.csa.iisc.ac.in/~vg/teaching/SecurityLectures/) [(CySecK version)](https://www.youtube.com/playlist?list=PLamRjPxmZ3eJ5YN02csejAf3W_jvPfH3e)
 
 ## Talks
 ### Machine Learning, Data Science and Statistics
