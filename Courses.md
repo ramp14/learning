@@ -13,6 +13,8 @@
 * [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 * [Stanford - Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [Stanford - Lecture Collection | Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [Stanford - Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning)
+* [Stanford - Mining Massive Data Sets](https://online.stanford.edu/courses/soe-ycs0007-mining-massive-data-sets)
 * [DeepMind & UCL | Introduction to Reinforcement Learning 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) [(Course site)](https://www.davidsilver.uk/teaching/)
 * [MIT 6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) [(Course site)](http://introtodeeplearning.com/)
 * [CMU 10-708 - Probabilistic Graphical Models (with video lectures)](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
@@ -56,6 +58,7 @@
 * [MIT 6.875 - Cryptography and Cryptanalysis](https://stellar.mit.edu/S/course/6/sp18/6.875/) [(videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 * [MIT 15.S12 - Blockchain and Money (with video lectures)](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
 * [IISc - Computer Systems Security](https://www.csa.iisc.ac.in/~vg/teaching/SecurityLectures/) [(CySecK version)](https://www.youtube.com/playlist?list=PLamRjPxmZ3eJ5YN02csejAf3W_jvPfH3e)
+* [MIT 18.065 - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (with video lectures)](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 # Lectures
 ## Machine Learning, Data Science and Statistics
