@@ -54,6 +54,7 @@
 * [IIT Bombay CS695 - Virtualization and Cloud Computing (with video lectures)](https://www.cse.iitb.ac.in/~mythili/virtcc/)
   
 ## Miscellaneous
+* [MIT 6.0001 - Introduction To Computer Science And Programming In Python (with video lectures)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [MIT 6.0002 - Introduction to Computational Thinking and Data Science (with video lectures)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * [MIT 6.875 - Cryptography and Cryptanalysis](https://stellar.mit.edu/S/course/6/sp18/6.875/) [(videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 * [MIT 15.S12 - Blockchain and Money (with video lectures)](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
