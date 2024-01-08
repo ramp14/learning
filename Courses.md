@@ -1,4 +1,4 @@
-![image](https://github.com/asprasad/learning/assets/15607890/0f3f882c-839e-483a-8826-2f9495d7eb3b)# Courses
+# Courses
 ## Machine Learning, Data Science and Statistics
 * [MIT 6.034 - Artificial Intelligence (with video lectures)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [MIT 6.036 - Introduction to Machine Learning (with video lectures)](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
