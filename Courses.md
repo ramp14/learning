@@ -1,4 +1,4 @@
-# Courses
+![image](https://github.com/asprasad/learning/assets/15607890/0f3f882c-839e-483a-8826-2f9495d7eb3b)# Courses
 ## Machine Learning, Data Science and Statistics
 * [MIT 6.034 - Artificial Intelligence (with video lectures)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * [MIT 6.036 - Introduction to Machine Learning (with video lectures)](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
@@ -22,8 +22,6 @@
 * [UC Berkeley - ML Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 * [Harvard Edx - Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
 * [Harvard Edx - Data Science: Machine Learning (Harvard)](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
-* [MIT 18.650 - Statistics for Applications (with video lectures)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
-* [Harvard - Statistics 110: Probability (with video lectures)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   
 ## Program Analysis, Programming Languages, Compilers etc.
 * [MIT 6.883 - Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-883-program-analysis-fall-2005/index.htm)
@@ -57,11 +55,20 @@
 * [MIT 6.0001 - Introduction To Computer Science And Programming In Python (with video lectures)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [MIT 6.0002 - Introduction to Computational Thinking and Data Science (with video lectures)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
+## Mathematics
+* [MIT 6.042J - Mathematics For Computer Science (with video lectures)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [MIT 18.650 - Statistics for Applications (with video lectures)](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm)
+* [Harvard - Statistics 110: Probability (with video lectures)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [MIT 18.S096 - Matrix Calculus For Machine Learning And Beyond (with video lectures)](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/)
+* [MIT 18.100A - Real Analysis (with video lectures)](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/)
+* [UC Berkeley Math 115 - Introduction to Number Theory](https://www.youtube.com/watch?v=EzE6it9kAsI&list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
+	* Several more great courses from Prof. Richard Borcherds [here](https://www.youtube.com/@richarde.borcherds7998)
+
 ## Miscellaneous
 * [MIT 6.875 - Cryptography and Cryptanalysis](https://stellar.mit.edu/S/course/6/sp18/6.875/) [(videos)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 * [MIT 15.S12 - Blockchain and Money (with video lectures)](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
 * [IISc - Computer Systems Security](https://www.csa.iisc.ac.in/~vg/teaching/SecurityLectures/) [(CySecK version)](https://www.youtube.com/playlist?list=PLamRjPxmZ3eJ5YN02csejAf3W_jvPfH3e)
-* [MIT 18.065 - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (with video lectures)](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+* [MIT 18.065 - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning (with video lectures)](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)  
 
 # Lectures
 ## Machine Learning, Data Science and Statistics
