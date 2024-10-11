@@ -27,6 +27,7 @@
 * [MIT 6.883 - Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-883-program-analysis-fall-2005/index.htm)
 * [Brown CS173 - Programming languages (video lectures)](http://cs.brown.edu/courses/cs173/2012/Videos/)
 * [IISc - Principles of Compiler Design](https://nptel.ac.in/courses/106108113)
+* [UMich - Specification and Verification of Distributed Protocols - Manos Kapritsos and Jon Howell](https://glados-michigan.github.io/verification-class/2022/)
 
 ## Computer Architecture, Operating Systems
 * [IIT Bombay - Operating Systems (with video lectures)](https://www.cse.iitb.ac.in/~mythili/os/)
